@@ -1,0 +1,2 @@
+# API_CONSULTA_JSON
+Aprendizado CRUD API
